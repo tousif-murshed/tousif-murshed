@@ -3,7 +3,7 @@
 💡 I specialize in frontend architecture and development, with deep expertise in:  
 - React, React Native, Angular  
 - TypeScript, JavaScript (ES6+)  
-- Component libraries, design systems, and performance optimization  
+- Component libraries, microfrontend, and performance optimization  
 
 ⚙️ While frontend is my core strength, I bring full-stack proficiency with:  
 - Backend systems in Node.js and Spring Boot  
@@ -41,6 +41,8 @@ I work with -
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
