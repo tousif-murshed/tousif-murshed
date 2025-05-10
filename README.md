@@ -19,11 +19,9 @@
 📬 [LinkedIn](https://www.linkedin.com/in/tousif-murshed-66808256/) • [Email](mailto:tousif.murshed@gmail.com) • [LeetCode](https://leetcode.com/u/tousifmurshed) • [GeeksforGeeks](https://www.geeksforgeeks.org/user/tousifmurshed)
 ###
 
-I work with -
+<p><strong>I work with -</strong></p>
 
 ###
-
-<br clear="both">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -71,9 +69,7 @@ I work with -
 </div>
 
 ###
-
 <div align="center">
-  <img src="https://profile-counter.glitch.me/tousif-murshed/count.svg?"  />
+  <p><strong>Visitors</strong></p>
+  <img src="https://profile-counter.glitch.me/tousif-murshed/count.svg" alt="visitor counter" />
 </div>
-
-###
