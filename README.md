@@ -1,75 +1,57 @@
-👋 Hi, I’m Tousif — a Full Stack Engineer with 15+ years of experience building scalable, high-performance web and mobile applications.
+# 👋 About Me
 
-💡 I specialize in frontend architecture and development, with deep expertise in:  
+Hi, I’m **Tousif** — a Full Stack Engineer with **15+ years of experience** building scalable, high-performance web and mobile applications.
+
+My core strength lies in **frontend architecture and development**, but I bring deep full-stack expertise to every project I lead.
+
+---
+
+## 🧠 Core Expertise
+
+### 💡 Frontend
 - React, React Native, Angular  
 - TypeScript, JavaScript (ES6+)  
-- Component libraries, microfrontend, and performance optimization  
+- Component libraries, Microfrontend architecture, Performance optimization  
 
-⚙️ While frontend is my core strength, I bring full-stack proficiency with:  
-- Backend systems in Node.js and Spring Boot  
-- Databases: Azure Cosmos DB, Cloud SQL, MongoDB  
-- Cloud-native development with Azure and GCP  
+### ⚙️ Backend & Cloud
+- Node.js, Spring Boot  
+- Azure Cosmos DB, Google Cloud SQL, MongoDB  
+- Cloud-native development on **Azure** and **Google Cloud**, containerization, CI/CD pipelines  
 
-🚀 I’ve led engineering efforts across multiple domains — from building consumer-scale applications to architecting reusable frontend platforms and APIs. I'm passionate about clean code, user experience, system design, and bridging the gap between frontend and backend.
+---
 
-🧑‍💼 Experienced in mentoring teams, driving best practices, and collaborating across functions to deliver business-critical solutions with speed and quality.
+## 🚀 Engineering Highlights
+- Led frontend platform modernization for enterprise-scale SaaS products  
+- Architected and implemented microfrontend solutions for large teams  
+- Built full-stack features with ownership across UI, API, and deployment  
+- Mentored cross-functional teams on architecture, testing, and code quality  
 
-📈 Always learning, always building. Let’s connect if you’re solving meaningful problems at scale.
+---
 
-📬 [LinkedIn](https://www.linkedin.com/in/tousif-murshed-66808256/) • [Email](mailto:tousif.murshed@gmail.com) • [LeetCode](https://leetcode.com/u/tousifmurshed) • [GeeksforGeeks](https://www.geeksforgeeks.org/user/tousifmurshed)
-###
+## 🧰 Tech Stack
 
-<p><strong>I work with -</strong></p>
+**Languages & Frameworks:**  
+JavaScript, TypeScript, Java, Python, Swift, Objective-C  
+React, Angular, React Native, Next.js, Node.js, Spring Boot  
 
-###
+**Databases:**  
+MongoDB, Cloud SQL, Azure Cosmos DB  
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="swift logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/objectivec/objectivec-plain.svg" height="40" alt="objectivec logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
-</div>
+**Cloud & DevOps:**  
+Azure, Google Cloud, Docker, Kubernetes  
 
-###
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tousif-murshed&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tousif-murshed&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+## 📫 Find Me Online
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/tousifmurshed)  
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/tousifmurshed)
 
-###
-<div align="center">
-  <p><strong>Visitors</strong></p>
-  <img src="https://profile-counter.glitch.me/tousif-murshed/count.svg" alt="visitor counter" />
-</div>
+---
+## 📫 Contact Me
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tousif.murshed@gmail.com)  
+
+---
+
+## 🔁 Visitor Counter
+
+![Visitor Count](https://profile-counter.glitch.me/tousif-murshed/count.svg)
